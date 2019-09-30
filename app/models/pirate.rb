@@ -1,5 +1,7 @@
 class Pirate
 
+  @@all = []
+
   def initialize(params)
     @name = params[:name]
     @weight = params[:weight]
