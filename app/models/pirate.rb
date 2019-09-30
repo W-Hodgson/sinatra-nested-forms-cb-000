@@ -7,6 +7,6 @@ class Pirate
   end
 
   def all
-
+    @@all
   end
 end
