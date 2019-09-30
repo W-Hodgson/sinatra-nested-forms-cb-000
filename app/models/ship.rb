@@ -14,6 +14,6 @@ class Ship
   end
 
   def clear
-
+    @@all = []
   end
 end
