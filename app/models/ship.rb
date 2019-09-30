@@ -1,5 +1,7 @@
 class Ship
 
+  @@all = []
+
   def initialize(params)
     @name = params[:name]
     @type = params[:type]
