@@ -10,6 +10,6 @@ class Ship
   end
 
   def all
-
+    @@all
   end
 end
